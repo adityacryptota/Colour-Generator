@@ -1,1 +1,1 @@
-# Colour-Generator
+# Random Color Generator.
